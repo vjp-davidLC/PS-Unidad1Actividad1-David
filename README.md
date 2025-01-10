@@ -51,6 +51,18 @@ Qué hace SonarQube:
 
 ### Prueba entornos
 
+Tenemos este programa python:
 
+![img10](img/img10.png)
 
-s
+![img11](img/img11.png)
+
+Para depurar python tenemos la extension oficial de Microsoft Python.
+
+![img12](img/img12.png)
+
+Vemos por ejemplo que ,con la extensión habilitada, directamente nos puede salir los errores en pantalla como este: 
+
+![img13](img/img13.png)
+
+Es muy buena ya que te explica el error de manera muy intuitiva.
